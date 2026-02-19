@@ -1,0 +1,24 @@
+.tablenav {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+
+.customer-table td,
+.customer-table th {
+    border: 1px solid;
+}
+
+#cmp-pagination {
+    display: inline-flex;
+    gap: 10px;
+    border: 1px solid;
+    padding: 5px 10px;
+    border-radius: 10px
+}
+
+#cmp-pagination a {
+    color: black;
+}
