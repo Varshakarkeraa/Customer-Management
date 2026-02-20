@@ -3,13 +3,11 @@
 ## Installation
 1. Upload the `customer-management-plugin` folder to `wp-content/plugins/`.
 2. Activate the plugin in WordPress admin.
-3. Import the SQL dump using phpMyAdmin
 
 ## Features
 - Add/Edit/Delete/View customer records
 - Pagination & Search in admin
-- Automatic WordPress user creation for new customers
-- Frontend shortcode `[active_customers]` with AJAX pagination & search
+- shortcode `[active_customers]` with AJAX pagination & search
 
 ## Shortcode Usage
 - Place `[active_customers]` in any page or post
